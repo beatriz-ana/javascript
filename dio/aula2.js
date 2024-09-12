@@ -13,7 +13,7 @@ console.log(par);*/
 
 const precoEtanol = 5.50;
 const precoGasolina = 6.50;
-const tipoComb = 'Gasolina ';
+const tipoComb = 'Gasolina a';
 
 const kmPorLitros = 10;
 const distancia = 100;
